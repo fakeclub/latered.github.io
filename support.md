@@ -43,7 +43,7 @@ Tasks are organized by date. Check the Yesterday, Today, and Tomorrow tabs. Comp
 
 Having trouble or have a suggestion? We'd love to hear from you.
 
-**Email:** latered.app@gmail.com
+**Email:** saponin-blender3b@icloud.com
 
 Please include:
 - Your device model (e.g., iPhone 15 Pro)
